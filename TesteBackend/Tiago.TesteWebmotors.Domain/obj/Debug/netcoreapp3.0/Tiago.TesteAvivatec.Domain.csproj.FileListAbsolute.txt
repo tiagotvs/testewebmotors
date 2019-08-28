@@ -1,8 +1,0 @@
-C:\Projetos\TesteAvivatec\Tiago.TesteAvivatec.Domain\bin\Debug\netcoreapp3.0\Tiago.TesteAvivatec.Domain.deps.json
-C:\Projetos\TesteAvivatec\Tiago.TesteAvivatec.Domain\bin\Debug\netcoreapp3.0\Tiago.TesteAvivatec.Domain.dll
-C:\Projetos\TesteAvivatec\Tiago.TesteAvivatec.Domain\bin\Debug\netcoreapp3.0\Tiago.TesteAvivatec.Domain.pdb
-C:\Projetos\TesteAvivatec\Tiago.TesteAvivatec.Domain\obj\Debug\netcoreapp3.0\Tiago.TesteAvivatec.Domain.csproj.CoreCompileInputs.cache
-C:\Projetos\TesteAvivatec\Tiago.TesteAvivatec.Domain\obj\Debug\netcoreapp3.0\Tiago.TesteAvivatec.Domain.AssemblyInfoInputs.cache
-C:\Projetos\TesteAvivatec\Tiago.TesteAvivatec.Domain\obj\Debug\netcoreapp3.0\Tiago.TesteAvivatec.Domain.AssemblyInfo.cs
-C:\Projetos\TesteAvivatec\Tiago.TesteAvivatec.Domain\obj\Debug\netcoreapp3.0\Tiago.TesteAvivatec.Domain.dll
-C:\Projetos\TesteAvivatec\Tiago.TesteAvivatec.Domain\obj\Debug\netcoreapp3.0\Tiago.TesteAvivatec.Domain.pdb
