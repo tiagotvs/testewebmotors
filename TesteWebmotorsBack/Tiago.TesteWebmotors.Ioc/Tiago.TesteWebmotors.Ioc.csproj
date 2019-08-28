@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.1.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tiago.TesteWebmotors.App\Tiago.TesteWebmotors.App.csproj" />
+    <ProjectReference Include="..\Tiago.TesteWebmotors.Data\Tiago.TesteWebmotors.Data.csproj" />
+    <ProjectReference Include="..\Tiago.TesteWebmotors.Domain\Tiago.TesteWebmotors.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
