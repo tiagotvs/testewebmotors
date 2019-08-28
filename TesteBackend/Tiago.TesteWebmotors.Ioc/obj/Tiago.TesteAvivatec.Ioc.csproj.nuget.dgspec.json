@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Ioc\\Tiago.TesteAvivatec.Ioc.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.App\\Tiago.TesteWebmotors.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.App\\Tiago.TesteWebmotors.App.csproj",
+        "projectName": "Tiago.TesteWebmotors.App",
+        "projectPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.App\\Tiago.TesteWebmotors.App.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Domain\\Tiago.TesteWebmotors.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Domain\\Tiago.TesteWebmotors.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.NETCore.Platforms": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3.19128.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27504-2, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "none"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivaTec.Data\\Tiago.TesteWebmotors.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivaTec.Data\\Tiago.TesteWebmotors.Data.csproj",
+        "projectName": "Tiago.TesteWebmotors.Data",
+        "projectPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivaTec.Data\\Tiago.TesteWebmotors.Data.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivaTec.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Domain\\Tiago.TesteWebmotors.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Domain\\Tiago.TesteWebmotors.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.Platforms": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3.19128.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27504-2, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "none"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Domain\\Tiago.TesteWebmotors.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Domain\\Tiago.TesteWebmotors.Domain.csproj",
+        "projectName": "Tiago.TesteWebmotors.Domain",
+        "projectPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Domain\\Tiago.TesteWebmotors.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NETCore.Platforms": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3.19128.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27504-2, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "none"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Ioc\\Tiago.TesteAvivatec.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Ioc\\Tiago.TesteAvivatec.Ioc.csproj",
+        "projectName": "Tiago.TesteAvivatec.Ioc",
+        "projectPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Ioc\\Tiago.TesteAvivatec.Ioc.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.App\\Tiago.TesteWebmotors.App.csproj": {
+                "projectPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.App\\Tiago.TesteWebmotors.App.csproj"
+              },
+              "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivaTec.Data\\Tiago.TesteWebmotors.Data.csproj": {
+                "projectPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivaTec.Data\\Tiago.TesteWebmotors.Data.csproj"
+              },
+              "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Domain\\Tiago.TesteWebmotors.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\TesteAvivatec\\Tiago.TesteAvivatec.Domain\\Tiago.TesteWebmotors.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.Platforms": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3.19128.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27504-2, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "none"
+            }
+          }
+        }
+      }
+    }
+  }
+}

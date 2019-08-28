@@ -1,0 +1,16 @@
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\obj\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Ioc.csprojAssemblyReference.cache
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\obj\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Ioc.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\obj\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Ioc.AssemblyInfoInputs.cache
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\obj\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Ioc.AssemblyInfo.cs
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\bin\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Ioc.deps.json
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\bin\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Ioc.dll
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\bin\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Ioc.pdb
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\bin\Debug\netcoreapp3.0\Tiago.TesteWebmotors.App.dll
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\bin\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Data.dll
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\bin\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Domain.dll
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\bin\Debug\netcoreapp3.0\Tiago.TesteWebmotors.App.pdb
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\bin\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Data.pdb
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\bin\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Domain.pdb
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\obj\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Ioc.csproj.CopyComplete
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\obj\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Ioc.dll
+C:\Projetos\TesteAvivatec\Tiago.TesteWebmotors.Ioc\obj\Debug\netcoreapp3.0\Tiago.TesteWebmotors.Ioc.pdb
