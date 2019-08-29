@@ -64,6 +64,7 @@ namespace Tiago.TesteWebmotors.Api.Controllers
         [HttpPost]
         public ActionResult Post([FromBody] AnuncioWebMotorsModel model)
         {
+
             try
             {
                 _anuncioWebmotors.Register(model);
@@ -81,7 +82,7 @@ namespace Tiago.TesteWebmotors.Api.Controllers
         }
 
         // PUT api/values/5
-        [HttpPut("{id}")]
+        [HttpPut]
         public ActionResult Put([FromBody] AnuncioWebMotorsModel model)
         {
             try
