@@ -4,7 +4,7 @@ using Tiago.TesteWebmotors.App.Models;
 
 namespace Tiago.TesteWebmotors.App.AutoMapper
 {
-    internal class DomainToViewModelMappingProfile : Profile
+    public class DomainToViewModelMappingProfile : Profile
     {
         public DomainToViewModelMappingProfile()
         {

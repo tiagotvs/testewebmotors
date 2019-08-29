@@ -5,11 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Cors" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.0.0-preview3-19153-02" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Tiago.TesteWebmotors.App\Tiago.TesteWebmotors.App.csproj" />
+    <ProjectReference Include="..\Tiago.TesteWebmotors.Ioc\Tiago.TesteWebmotors.Ioc.csproj" />
   </ItemGroup>
 
 </Project>

@@ -2,6 +2,7 @@
 using AutoMapper.QueryableExtensions;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using Tiago.TesteWebmotors.App.Interfaces;
 using Tiago.TesteWebmotors.App.Models;
@@ -28,7 +29,9 @@ namespace Tiago.TesteWebmotors.App.Services
 
         public IEnumerable<AnuncioWebMotorsModel> GetAll()
         {
-            return _anuncioWebMotorsRepository.GetAll().ProjectTo<AnuncioWebMotorsModel>();
+            var list = _anuncioWebMotorsRepository.GetAll().ToList();
+
+            return _mapper.Map<List<AnuncioWebMotorsModel>>(list);
         }
 
         public AnuncioWebMotorsModel GetById(int id)

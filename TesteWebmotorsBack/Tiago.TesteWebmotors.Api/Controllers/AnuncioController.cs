@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Tiago.TesteWebmotors.App.Interfaces;
 using Tiago.TesteWebmotors.App.Models;
@@ -10,6 +11,7 @@ namespace Tiago.TesteWebmotors.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AllowMyOrigin")]
     public class AnuncioController : ControllerBase
     {
         private readonly IAnuncioWebmotors _anuncioWebmotors;
@@ -105,7 +107,6 @@ namespace Tiago.TesteWebmotors.Api.Controllers
             try
             {
                 _anuncioWebmotors.Remove(id);
-                result.Message = "Usuário excluído com sucesso!";
                 result.Success = true;
 
                 return Ok(result);

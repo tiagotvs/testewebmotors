@@ -60,7 +60,7 @@ namespace Tiago.TesteWebmotors.Data.Repository
 
         IQueryable<TEntity> IRepository<TEntity>.GetAll()
         {
-            throw new NotImplementedException();
+            return DbSet;
         }
     }
 }
